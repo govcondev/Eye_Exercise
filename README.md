@@ -16,6 +16,6 @@ This Eye Exercise is a project that uses HTML, CSS, and JavaScript to create ani
 ### File Structure
 - **Eye Exercise**
 - `index.html`
-  - `eyes.js`
-  - `styles.css`
+- `eyes.js`
+- `styles.css`
 
