@@ -14,8 +14,8 @@ This Eye Exercise is a project that uses HTML, CSS, and JavaScript to create ani
 3. **Integration of Sound:** Add sound effects that change based on where the user is looking.
 
 ### File Structure
-**Eye Exercise**
-- `index.html`
-- `eyes.js`
-- `styles.css`
+- **Eye Exercise**
+  - `index.html`
+  - `eyes.js`
+  - `styles.css`
 
